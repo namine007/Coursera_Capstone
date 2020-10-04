@@ -1,0 +1,9 @@
+#Introdcution
+    Motor vehicle related accidents are one of the leading causes of unintentional injury and fatality. In 2016, there were 1.35 million people passed away globally because of car crushes; while around 20 to 50 million people suffered from injuries (WHO,2020). Except for the severe impacts on the parties involved in the accidents, car accidents also affect other road users, mainly due to traffic congestion when the police and healthcare have to clear the crashes and take care of the injured people. Factors affecting the traffic congestion include but not limited to the severity of the accidents, the accessibility to the accident scenes, and the efficacy of the police/ healthcare professionals. Among all these elements, accidents’ severity seems to have the greatest effect on traffic congestion. Therefore, this project intends to predict the severity of car accidents based on various important risk factors, including road configuration, weather condition and road surface. 
+
+
+
+
+
+Reference
+Road Traffic Injury. WHO (2020). Retrieved Oct 4, 2020 from https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries
