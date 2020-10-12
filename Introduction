@@ -1,10 +1,10 @@
 #Introdcution
-    Motor vehicle related accidents are one of the leading causes of unintentional injury and fatality. In 2016, 1.35 million people died globally \n 
-because of car crashes; while around 20 to 50 million people suffered from injuries (WHO,2020). Except for the severe impacts on the parties involved \n
-in the accidents, car accidents also affect other road users, mainly due to traffic congestion when the police and healthcare have to clear the crashes \n
+    Motor vehicle related accidents are one of the leading causes of unintentional injury and fatality. In 2016, 1.35 million people died globally 
+because of car crashes; while around 20 to 50 million people suffered from injuries (WHO,2020). Except for the severe impacts on the parties involved
+in the accidents, car accidents also affect other road users, mainly due to traffic congestion when the police and healthcare have to clear the crashes
 and take care of the injured people. 
-    This project intends to predict the severity of car accidents based on various important risk factors, including road configuration, weather condition \n
-and road surface. By predicting the severity of car accidents, road users could better understand the chance of encountering a severe accident and drive \n
+    This project intends to predict the severity of car accidents based on various important risk factors, including road configuration, weather condition
+and road surface. By predicting the severity of car accidents, road users could better understand the chance of encountering a severe accident and drive
 with more caution; while authorities could take precautionary measures to reduce/ avoid car accidents in the future.
  
 
